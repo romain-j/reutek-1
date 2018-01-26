@@ -1,7 +1,6 @@
 {
 "name": "reutek/reutek-1",
     "require": {
-        "guzzle/guzzle": "^3.9",
-        "guzzlehttp/guzzle": "~4"
+        "guzzlehttp/guzzle": "~6"
     }
 }
